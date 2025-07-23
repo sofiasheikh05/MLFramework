@@ -60,10 +60,12 @@ If you use this framework in your research, please cite:
 Sofia Sheikha, Raymundo Arróyave, "Predicting Hardness in Refractory High-Entropy Alloys Using Machine Learning," *Materials Letter*, January 2025.
 
 ```bibtex
-@article{sheikha2025predicting,
-  title={Predicting Hardness in Refractory High-Entropy Alloys Using Machine Learning},
-  author={Sofia Sheikha, Raymundo Arróyave},
-  journal={Materials Letter},
-  year={2025}
+@article{sheikh2025predicting,
+  title={Predicting hardness in refractory high-entropy alloys using machine learning},
+  author={Sheikh, Sofia and Zadeh, Sina Hossein and Mulukutla, Mrinalini and Hastings, Trevor and Arr{\'o}yave, Raymundo},
+  journal={Materials Letters},
+  pages={138940},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
