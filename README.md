@@ -57,7 +57,7 @@ jupyter notebook ML_Method_Framework.ipynb
 
 If you use this framework in your research, please cite:
 
-Sofia Sheikha, Raymundo Arróyave, "Predicting Hardness in Refractory High-Entropy Alloys Using Machine Learning," *Materials Letter*, January 2025.
+Sheikh, S., Zadeh, S. H., Mulukutla, M., Hastings, T., & Arróyave, R. (2025). Predicting hardness in refractory high-entropy alloys using machine learning. Materials Letters, 138940.
 
 ```bibtex
 @article{sheikh2025predicting,
